@@ -1,0 +1,11 @@
+{
+ "name": "multinet",
+ "website": "https://multinet.finance/",
+ "description": "MULTI-NET is a community-driven DeFi platform that empowers users by rewarding their participation and enjoyment. Leverage finance and gaming by using innovative token economics ($MNC distribution). It also combines the strengths of DeFi and NFTs to create a truly unique and timeless DeFi yield ecosystem.",
+ "explorer": "https://bscscan.com/token/0xBCeAAA6a74679C376b7EB9a1094D1484160d5795",
+ "type": "BEP20",
+ "symbol": "MNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBCeAAA6a74679C376b7EB9a1094D1484160d5795"
+}
